@@ -1,5 +1,6 @@
 | Version  | Change  |
 |---|---|
+| v0.6 | Implemented LIN app and tested the communication using two tm4c123gh6pmi boards|
 | v0.5 | Implemented LIN driver and tested with a logic analyzer and Putty (Serial Terminal) |
 | v0.4 | Implemented UART driver and tested with a logic analyzer and Putty (Serial Terminal) |
 | v0.3 | Implemented timer driver and tested with a state machine application |
